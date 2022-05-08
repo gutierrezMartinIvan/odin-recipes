@@ -1,0 +1,24 @@
+.body{
+    
+}
+.header1 {
+    text-align: center;
+    font-size: 100px;
+    color: aqua;
+    font-style: oblique;
+}
+.text{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ingredients, .steps {
+    font-size: 50px;
+    font-style: italic;
+}
+.img {
+    width: 400px;
+    height: auto;
+}
+.list{
+    font-size: 20px;
+}
